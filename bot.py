@@ -47,7 +47,7 @@ app = Client(
 def start(client, message):
     client.send_message(
         chat_id=message.chat.id,
-        text=f"`Hi` **{message.from_user.first_name}**\n{welcome}",
+        text=f'Hai **{message.from_user.first_name}**\n{welcome}",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
