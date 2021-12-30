@@ -1,7 +1,7 @@
 from pyrogram.types import InlineKeyboardButton
 from creds import cred
 
-welcome = "Hai 😍🙈 ..\nGive me the subtitle file you want to translate..\n\n[Bot Shadow♾](https://t.me/media_bot_updates)Corporation ©️"
+welcome = "Hai 😍🙈 ..\nGive me the subtitle file you want to translate..\n\n[🔥 Bot Shadow ♾](https://t.me/media_bot_updates) Corporation ©️"
 about = (
     "Name           : [SubTitle Translator](t.me/Infinity_Subtitle_Translator_Bot)\nCreator : [</> Rᴀᴠɪᴅᴜ Yᴀsᴀs 🇱🇰 </> {Oғғʟɪɴᴇ} ♰](https://t.me/darkz_hacker_devil)\nLanguage: ["
     "Python3](https://python.org)\nLibrary : [Pyrogram](https://docs.pyrogram.org/) \nServer  : [Heroku]("
@@ -15,11 +15,10 @@ help_text = (
 )
 eta_text = (
     "**File name :** `{}`\n**Done** `{}` **of** `{}`\n**Percentage:** {}%\n**Speed:** {} lines/sec\n**ETA:** {}\n[{"
-    "}{}] "
-    "}{}]\n[Bot Shadow♾](https://t.me/media_bot_updates)Corporation ©️ "
+    "}{}]\n◇───────────────◇\n🔥 [Bot Shadow ♾](https://t.me/media_bot_updates) Corporation ©️ "
 
 )
-caption = f"Translated by {cred.BOT_NAME}"
+caption = f"Translated by {cred.BOT_NAME}\n◇───────────────◇\n\n[Bot Shadow ♾](https://t.me/media_bot_updates) Corporation ©️\n◇───────────────◇"
 empty = "`You need to send a subtitle(srt) file inorder to translate it`"
 mmtypes = [
     "text/plain",
@@ -27,8 +26,8 @@ mmtypes = [
     "application/octet-stream",
     "application/binary",
 ]
-err1 = "**__One subtitle is processing wait sometime__**"
-err2 = "**__This is not a subtitle(srt) file__**"
+err1 = "**One subtitle is processing wait sometime 🥲**"
+err2 = "**This is not a subtitle(srt) file 😝**"
 err3 = "**Todays limit exceeded**"
 err4 = "**Unsupported characters in file**"
 err5 = "**Some errors happened Try again..**"
