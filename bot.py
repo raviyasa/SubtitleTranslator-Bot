@@ -47,7 +47,7 @@ app = Client(
 def start(client, message):
     client.send_message(
         chat_id=message.chat.id,
-        text=f'Hai **{message.from_user.first_name}**\n{welcome}",
+        text=f'Hai 😍🙈 ... **{message.from_user.mention}**\n{welcome}",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -72,7 +72,7 @@ def abouts(client, message):
         text=about,
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
-            [[InlineKeyboardButton("Give Feedback", url="t.me/agentnova")]]
+            [[InlineKeyboardButton("Give Feedback", url="t.me/darkz_hacker_devil_bot")]]
         ),
     )
 
