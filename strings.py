@@ -15,7 +15,7 @@ help_text = (
 )
 eta_text = (
     "**File name :** `{}`\n**Done** `{}` **of** `{}`\n**Percentage:** {}%\n**Speed:** {} lines/sec\n**ETA:** {}\n[{"
-    "}{}]\n◇───────────────◇\n🔥 [Bot Shadow ♾](https://t.me/media_bot_updates) Corporation ©️ "
+    "}{}]\n\n◇───────────────◇\n\n🔥 [Bot Shadow ♾](https://t.me/media_bot_updates) Corporation ©️ "
 
 )
 caption = f"Translated by {cred.BOT_NAME}\n◇───────────────◇\n\n[Bot Shadow ♾](https://t.me/media_bot_updates) Corporation ©️\n◇───────────────◇"
