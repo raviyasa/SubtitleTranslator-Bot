@@ -2,20 +2,30 @@ from pyrogram.types import InlineKeyboardButton
 from creds import cred
 
 welcome = "`Give me the subtitle file you want to translate..`"
+welcome = "Hai 😍🙈 {}..\nGive me the subtitle file you want to translate..\n\n[Bot Shadow♾](https://t.me/media_bot_updates)Corporation ©️"
 about = (
     "`Bot`            : [subtransbot](t.me/subtransbot)\n`Creator :` [agentnova](t.me/agentnova)\n`Language:` ["
     "Python3](https://python.org)\n`Library :` [Pyrogram](https://docs.pyrogram.org/) \n`Server  :` [Heroku]("
     "https://herokuapp.com/) "
+    "Name           : [SubTitle Translator](t.me/Infinity_Subtitle_Translator_Bot)\nCreator : [</> Rᴀᴠɪᴅᴜ Yᴀsᴀs 🇱🇰 </> {Oғғʟɪɴᴇ} ♰](https://t.me/darkz_hacker_devil)\nLanguage: ["
+    "Python3](https://python.org)\nLibrary : [Pyrogram](https://docs.pyrogram.org/) \nServer  : [Heroku]("
+    "https://herokuapp.com/)\nSource Code    : 🔐"
 )
 help_text = (
     "**Steps to follow**\n\n`This is a subtitle translator bot`\n**1.** `Send me the subtitle file inorder to "
     "translate.`\n**2.** `Select the destination language(dont press multiple buttons).`\n**3.** `Wait some time "
     "to complete the translation.`\n\n**Keep in mind**\n\n**1.** `You can only translate one subtitle at a "
     "time`\n**2.** `Dont forward bulk files together , You will be banned` "
+    "**Steps to follow**\n\nThis is a [Subtitle Translator Bot](t.me/Infinity_Subtitle_Translator_Bot)\n**1.** Send me the subtitle file inorder to "
+    "translate.(Must Be a srt file, not Zip File or something else.)\n**2.** Select the destination language 😎(dont press multiple buttons).\n**3.** Wait some time "
+    "to complete the translation.\n\n**Keep in mind**\n\n**1.** `You can only translate one subtitle at a "
+    "time 🥲\n**2.** Dont forward bulk files together 😡 , You will be banned 😳"
 )
 eta_text = (
     "**File name :** `{}`\n**Done** `{}` **of** `{}`\n**Percentage:** {}%\n**Speed:** {} lines/sec\n**ETA:** {}\n[{"
     "}{}] "
+    "}{}]\n[Bot Shadow♾](https://t.me/media_bot_updates)Corporation ©️ "
+
 )
 caption = f"Translated by {cred.BOT_NAME}"
 empty = "`You need to send a subtitle(srt) file inorder to translate it`"
