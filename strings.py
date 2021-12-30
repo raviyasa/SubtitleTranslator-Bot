@@ -1,7 +1,7 @@
 from pyrogram.types import InlineKeyboardButton
 from creds import cred
 
-welcome = "Hai 😍🙈 {}..\nGive me the subtitle file you want to translate..\n\n[Bot Shadow♾](https://t.me/media_bot_updates)Corporation ©️"
+welcome = "Hai 😍🙈 ..\nGive me the subtitle file you want to translate..\n\n[Bot Shadow♾](https://t.me/media_bot_updates)Corporation ©️"
 about = (
     "Name           : [SubTitle Translator](t.me/Infinity_Subtitle_Translator_Bot)\nCreator : [</> Rᴀᴠɪᴅᴜ Yᴀsᴀs 🇱🇰 </> {Oғғʟɪɴᴇ} ♰](https://t.me/darkz_hacker_devil)\nLanguage: ["
     "Python3](https://python.org)\nLibrary : [Pyrogram](https://docs.pyrogram.org/) \nServer  : [Heroku]("
