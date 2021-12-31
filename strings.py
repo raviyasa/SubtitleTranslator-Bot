@@ -1,7 +1,7 @@
 from pyrogram.types import InlineKeyboardButton
 from creds import cred
 
-welcome = "Give me the subtitle file you want to translate..\n\n[🔥 Bot Shadow ♾](https://t.me/media_bot_updates) Corporation ©️"
+welcome = "Give me the subtitle file you want to translate..\n\n◇───────────────◇\n\n☘️ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 : [</> Rᴀᴠɪᴅᴜ Yᴀsᴀs 🇱🇰 </> ♰](https://t.me/darkz_hacker_devil)\n👻 𝚂𝚒𝚗𝚐𝚕𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 ✌️\n[Bot Shadow ♾](https://t.me/media_bot_updates) Corporation ©️\n\n◇───────────────◇"
 about = (
     "Name : [SubTitle Translator](t.me/Infinity_Subtitle_Translator_Bot)\nCreator : [</> Rᴀᴠɪᴅᴜ Yᴀsᴀs 🇱🇰 </> {Oғғʟɪɴᴇ} ♰](https://t.me/darkz_hacker_devil)\nLanguage: ["
     "Python3](https://python.org)\nLibrary : [Pyrogram](https://docs.pyrogram.org/) \nServer  : [Heroku]("
@@ -11,14 +11,14 @@ help_text = (
     "**Steps to follow**\n\nThis is a [Subtitle Translator Bot](t.me/Infinity_Subtitle_Translator_Bot)\n**1.** Send me the subtitle file inorder to "
     "translate.(Must Be a srt file, not Zip File or something else.)\n**2.** Select the destination language 😎(dont press multiple buttons).\n**3.** Wait some time "
     "to complete the translation.\n\n**Keep in mind**\n\n**1.** `You can only translate one subtitle at a "
-    "time 🥲\n2. Dont forward bulk files together 😡 , You will be banned 😳"
+    "time 🥲\n2. Dont forward bulk files together 😡 , You will be banned 😳\n\n◇───────────────◇\n\n☘️ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 : [</> Rᴀᴠɪᴅᴜ Yᴀsᴀs 🇱🇰 </> ♰](https://t.me/darkz_hacker_devil)\n👻 𝚂𝚒𝚗𝚐𝚕𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 ✌️\n[Bot Shadow ♾](https://t.me/media_bot_updates) Corporation ©️\n\n◇───────────────◇""
 )
 eta_text = (
-    "**File name :** `{}`\n**Done** `{}` **of** `{}`\n**Percentage:** {}%\n**Speed:** {} lines/sec\n**ETA:** {}\n[{"
-    "}{}]\n\n◇───────────────◇\n\n🔥 [Bot Shadow ♾](https://t.me/media_bot_updates) Corporation ©️ "
+    "**File name :** `{}`\n**✍️ Done** `{}` **of** `{}`\n**☘️ Percentage:** {}%\n**👻 Speed:** {} lines/sec\n**🌷 ETA:** {}\n\n[{"
+    "}{}]\n\n◇───────────────◇\n\n🔥 [Bot Shadow ♾](https://t.me/media_bot_updates) Corporation ©️\n\n◇───────────────◇ "
 
 )
-caption = f"Translated by {cred.BOT_NAME}\n◇───────────────◇\n\n[Bot Shadow ♾](https://t.me/media_bot_updates) Corporation ©️\n◇───────────────◇"
+caption = f"🌷 Translated by {cred.BOT_NAME}\n◇───────────────◇\n\n☘️ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 : [</> Rᴀᴠɪᴅᴜ Yᴀsᴀs 🇱🇰 </> ♰](https://t.me/darkz_hacker_devil)\n👻 𝚂𝚒𝚗𝚐𝚕𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 ✌️\n[Bot Shadow ♾](https://t.me/media_bot_updates) Corporation ©️\n\n◇───────────────◇"
 empty = "`You need to send a subtitle(srt) file inorder to translate it`"
 mmtypes = [
     "text/plain",
