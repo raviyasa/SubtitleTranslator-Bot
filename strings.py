@@ -18,7 +18,7 @@ eta_text = (
     "}{}]\n\n◇───────────────◇\n\n☘️ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 : [</> Rᴀᴠɪᴅᴜ Yᴀsᴀs 🇱🇰 </> ♰](https://t.me/darkz_hacker_devil)\n👻 𝚂𝚒𝚗𝚐𝚕𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 ✌️\n🔥 [Bot Shadow ♾](https://t.me/media_bot_updates) Corporation ©️\n\n◇───────────────◇ "
 
 )
-caption = f"🌷 Translated by {cred.BOT_NAME}\n◇───────────────◇\n\n☘️ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 : [</> Rᴀᴠɪᴅᴜ Yᴀsᴀs 🇱🇰 </> ♰](https://t.me/darkz_hacker_devil)\n👻 𝚂𝚒𝚗𝚐𝚕𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 ✌️\n[Bot Shadow ♾](https://t.me/media_bot_updates) Corporation ©️\n\n◇───────────────◇"
+caption = f"🌷 Translated by [SubTitle Translator](t.me/Infinity_Subtitle_Translator_Bot)\n◇───────────────◇\n\n☘️ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 : [</> Rᴀᴠɪᴅᴜ Yᴀsᴀs 🇱🇰 </> ♰](https://t.me/darkz_hacker_devil)\n👻 𝚂𝚒𝚗𝚐𝚕𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 ✌️\n[Bot Shadow ♾](https://t.me/media_bot_updates) Corporation ©️\n\n◇───────────────◇"
 empty = "`You need to send a subtitle(srt) file inorder to translate it`"
 mmtypes = [
     "text/plain",
